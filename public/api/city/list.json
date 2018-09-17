@@ -1,0 +1,201 @@
+{
+  "code": "0",
+  "result": {
+    "page": 1,
+    "page_size": 10,
+    "total_count": 60,
+    "page_count": 6,
+    "item_list": [
+      {
+        "id": 1,
+        "name": "台州市",
+        "mode": 1,
+        "op_mode": 2,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "徐超",
+            "user_id": 10001
+          }
+        ],
+        "open_time": "1979-10-07 13:07:14",
+        "sys_user_name": "杨超",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 2,
+        "name": "云林县",
+        "mode": 1,
+        "op_mode": 1,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "侯明",
+            "user_id": 10002
+          },
+          {
+            "user_name": "贾涛",
+            "user_id": 10003
+          }
+        ],
+        "open_time": "2018-04-29 04:32:53",
+        "sys_user_name": "石丽",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 3,
+        "name": "天津市",
+        "mode": 2,
+        "op_mode": 2,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "赖伟",
+            "user_id": 10004
+          }
+        ],
+        "open_time": "2014-09-27 02:11:44",
+        "sys_user_name": "龚娜",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 4,
+        "name": "宁波市",
+        "mode": 2,
+        "op_mode": 1,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "邵刚",
+            "user_id": 10005
+          }
+        ],
+        "open_time": "2006-05-10 13:49:40",
+        "sys_user_name": "吴超",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 5,
+        "name": "白城市",
+        "mode": 2,
+        "op_mode": 1,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "熊桂英",
+            "user_id": 10006
+          },
+          {
+            "user_name": "孟平",
+            "user_id": 10007
+          }
+        ],
+        "open_time": "2014-10-28 18:45:49",
+        "sys_user_name": "邹娜",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 6,
+        "name": "乌海市",
+        "mode": 1,
+        "op_mode": 2,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "杨强",
+            "user_id": 10008
+          }
+        ],
+        "open_time": "1975-08-05 19:19:58",
+        "sys_user_name": "史超",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 7,
+        "name": "三明市",
+        "mode": 1,
+        "op_mode": 1,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "傅强",
+            "user_id": 10009
+          },
+          {
+            "user_name": "姜丽",
+            "user_id": 10010
+          }
+        ],
+        "open_time": "2002-12-30 04:38:08",
+        "sys_user_name": "宋涛",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 8,
+        "name": "重庆市",
+        "mode": 1,
+        "op_mode": 1,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "陈军",
+            "user_id": 10011
+          },
+          {
+            "user_name": "杨娜",
+            "user_id": 10012
+          }
+        ],
+        "open_time": "2007-06-16 06:45:14",
+        "sys_user_name": "蒋秀兰",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 9,
+        "name": "泸州市",
+        "mode": 1,
+        "op_mode": 2,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "廖秀英",
+            "user_id": 10013
+          },
+          {
+            "user_name": "陆丽",
+            "user_id": 10014
+          }
+        ],
+        "open_time": "2014-10-03 22:25:24",
+        "sys_user_name": "韩芳",
+        "update_time": 1520476737000
+      },
+      {
+        "id": 10,
+        "name": "白山市",
+        "mode": 1,
+        "op_mode": 2,
+        "franchisee_id": 77,
+        "franchisee_name": "松果自营",
+        "city_admins": [
+          {
+            "user_name": "常杰",
+            "user_id": 10015
+          }
+        ],
+        "open_time": "2007-07-26 00:23:38",
+        "sys_user_name": "罗磊",
+        "update_time": 1520476737000
+      }
+    ]
+  }
+}

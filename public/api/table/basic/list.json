@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "msg": "",
+  "result": {
+    "list": [
+      {
+        "id": 1,
+        "userName": "朱涛",
+        "sex": 2,
+        "state": 3,
+        "interest": 4,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 2,
+        "userName": "曾平",
+        "sex": 2,
+        "state": 5,
+        "interest": 4,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 3,
+        "userName": "马艳",
+        "sex": 1,
+        "state": 4,
+        "interest": 5,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 4,
+        "userName": "丁秀英",
+        "sex": 1,
+        "state": 4,
+        "interest": 4,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 5,
+        "userName": "杜明",
+        "sex": 2,
+        "state": 3,
+        "interest": 3,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 6,
+        "userName": "于霞",
+        "sex": 2,
+        "state": 2,
+        "interest": 3,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 7,
+        "userName": "曹勇",
+        "sex": 1,
+        "state": 1,
+        "interest": 4,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 8,
+        "userName": "孔丽",
+        "sex": 1,
+        "state": 2,
+        "interest": 2,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 9,
+        "userName": "薛桂英",
+        "sex": 1,
+        "state": 5,
+        "interest": 4,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      },
+      {
+        "id": 10,
+        "userName": "黎秀兰",
+        "sex": 1,
+        "state": 4,
+        "interest": 3,
+        "birthday": "1997-11-11",
+        "address": "陕西省西安市长安区",
+        "time": "2018-8-14"
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 100
+  }
+}
